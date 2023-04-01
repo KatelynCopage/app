@@ -30,7 +30,7 @@ const Gallery1 = () => {
     
     <div>
       <Navbar/>
-      <Gallery header="GALLERY" text="Art Projects"/>
+      <Gallery header="GALLERY" text="- Art Projects -"/>
       <WSPGallery
         galleryImages={galleryImages}
       />
