@@ -8,22 +8,22 @@ import WSPGallery from '../components/WSPGallery'
 const Gallery1 = () => {
   const galleryImages = [
     {
-        img: 'https://images.unsplash.com/photo-1525268771113-32d9e9021a97?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1480&q=80'
+        img: 'https://github.com/KatelynCopage/app/blob/main/src/assets/rowlet.png?raw=true'
     },
     {
-        img: 'https://images.unsplash.com/photo-1525268771113-32d9e9021a97?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1480&q=80'
+        img: 'https://github.com/KatelynCopage/app/blob/main/src/assets/samurai.png?raw=true'
     },
     {
-        img: 'https://images.unsplash.com/photo-1525268771113-32d9e9021a97?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1480&q=80'
+        img: 'https://github.com/KatelynCopage/app/blob/main/src/assets/miku.png?raw=true'
     },
     {
-        img: 'https://images.unsplash.com/photo-1525268771113-32d9e9021a97?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1480&q=80'
+        img: 'https://github.com/KatelynCopage/app/blob/main/src/assets/luffy%20inspo.png?raw=true'
     },
     {
-        img: 'https://images.unsplash.com/photo-1525268771113-32d9e9021a97?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1480&q=80'
+        img: 'https://github.com/KatelynCopage/app/blob/main/src/assets/tiga.png?raw=true'
     },
     {
-        img: 'https://images.unsplash.com/photo-1525268771113-32d9e9021a97?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1480&q=80'
+        img: 'https://github.com/KatelynCopage/app/blob/main/src/assets/strw.png?raw=true'
     },
 ]
   return (

@@ -23,6 +23,9 @@
   .galleryWrap .single img:hover {
     transform: scale(1.02);
   }
+
+
+
   
   .sliderWrap {
     position: fixed;
