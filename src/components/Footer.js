@@ -25,21 +25,30 @@ const footer = () => {
                 />
               </a>
               
+              <a target='_blank' href="https://www.instagram.com/vn_rice/">
               <FaInstagram
                 size={40}
                 style={{color: "#fff",
                 marginRight:"1rem" }}
               />
+              </a>
+
+              <a target='_blank' href="https://www.youtube.com/channel/UCLjAqJuZXraIAsTkZIrzZ-g">
               <FaYoutube
                 size={40}
                 style={{color: "#fff",
                 marginRight:"1rem" }}
               />
+              </a>
+
+              <a target='_blank' href="https://github.com/KatelynCopage">
               <FaGithub
                 size={40}
                 style={{color: "#fff",
                 marginRight:"1rem" }}
               />
+              </a>
+              
               <FiMail
                 size={40}
                 style={{color: "#fff",
