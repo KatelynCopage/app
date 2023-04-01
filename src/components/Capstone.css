@@ -43,3 +43,18 @@ li{
     margin-top: 90px;
 }
 
+@media screen and (max-width: 640px){
+    .contain{
+        width: 100%;
+        height: 100vh;
+        padding-bottom: 3300px;
+    
+    }
+    .info{
+        margin: 0px 50px;
+        text-align: justify;
+        /* padding-left: 130px;
+        padding-right: 130px; */
+    
+    }
+}
